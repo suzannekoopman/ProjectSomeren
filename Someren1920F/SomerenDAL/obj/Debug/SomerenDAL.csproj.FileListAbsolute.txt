@@ -23,12 +23,12 @@ C:\Users\School\Desktop\School\1.1 Databases\project databases\Someren1920F\Some
 C:\Users\School\Desktop\School\1.1 Databases\project databases\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\School\Desktop\School\1.1 Databases\project databases\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\School\Desktop\School\1.1 Databases\project databases\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll.config
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.pdb
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.dll
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.pdb
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
-E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.dll
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb

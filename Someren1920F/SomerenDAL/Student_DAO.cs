@@ -12,7 +12,7 @@ namespace SomerenDAL
 {
     public class Student_DAO : Base
     {
-      
+
         public List<Student> Db_Get_All_Students()
         {
             string query = "SELECT Id, Name FROM Students";
@@ -28,8 +28,13 @@ namespace SomerenDAL
             {
                 Student student = new Student()
                 {
-                    Number = (int)dr["Id"],
-                    Name = (String)(dr["Name"].ToString())
+                    StudentNumber = (int)dr["StudentId"],
+                    Class = (String)dr["Class"].ToString(),
+                    FirstName = (String)(dr["First_Name"].ToString()),
+                    LastName = (String)(dr["Last_Name"].ToString()),
+                    PhoneNumber = (int)dr["Phone_Number"],
+                    Address = (String)(dr["Address"].ToString()),
+                    City = (String)(dr["City"].ToString())
                 };
                 students.Add(student);
             }
