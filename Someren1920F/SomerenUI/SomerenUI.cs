@@ -30,9 +30,11 @@ namespace SomerenUI
 
             if (panelName == "Dashboard")
             {
-
                 // hide all other panels
                 pnl_Students.Hide();
+                pnl_Rooms.Hide();
+                pnl_Lecturers.Hide();
+                pnl_RoomDivision.Hide();
 
                 // show dashboard
                 pnl_Dashboard.Show();
@@ -45,11 +47,9 @@ namespace SomerenUI
                 img_Dashboard.Hide();
                 pnl_Rooms.Hide();
                 pnl_Lecturers.Hide();
-
+                pnl_RoomDivision.Hide();
                 // show students
                 pnl_Students.Show();
-
-
 
                 // fill the students listview within the students panel with a list of students
                 SomerenLogic.Student_Service studService = new SomerenLogic.Student_Service();
@@ -78,7 +78,7 @@ namespace SomerenUI
                 img_Dashboard.Hide();
                 pnl_Students.Hide();
                 pnl_Lecturers.Hide();
-
+                pnl_RoomDivision.Hide();
                 // show rooms
                 pnl_Rooms.Show();
 
@@ -93,7 +93,14 @@ namespace SomerenUI
                 {
                     ListViewItem li = new ListViewItem(r.RoomNumber.ToString());
                     li.SubItems.Add(r.Capacity.ToString());
-                    li.SubItems.Add(r.Type.ToString());
+                    if (r.Type == false)
+                    {
+                        li.SubItems.Add("Student");
+                    }
+                    else 
+                    { 
+                        li.SubItems.Add("Teacher"); 
+                    }
                     listViewRooms.Items.Add(li);
                 }
             }
@@ -104,10 +111,9 @@ namespace SomerenUI
                 pnl_Students.Hide();
                 img_Dashboard.Hide();
                 pnl_Rooms.Hide();
+                pnl_RoomDivision.Hide();
                 // show lecturers
                 pnl_Lecturers.Show();
-
-
 
                 // fill the lecturers listview within the lecturers panel with a list of lecturers
                 SomerenLogic.Lecturer_Service lectService = new SomerenLogic.Lecturer_Service();
@@ -125,6 +131,29 @@ namespace SomerenUI
                     li.SubItems.Add(s.City);
                     li.SubItems.Add(s.RoomNumber.ToString());
                     listViewLecturers.Items.Add(li);
+                }
+            }
+            else if (panelName == "RoomDivision")
+            {
+                // hide all other panels
+                pnl_Dashboard.Hide();
+                pnl_Students.Hide();
+                img_Dashboard.Hide();
+                pnl_Lecturers.Hide();
+                pnl_Rooms.Hide();
+                // show lecturers
+                pnl_RoomDivision.Show();
+
+                // fill the students listview within the students panel with a list of students
+                SomerenLogic.Room_Service roomService = new SomerenLogic.Room_Service();
+                List<Room> RoomDivisionList = roomService.GetRooms();
+
+                // clear the listview before filling it again
+                listviewRoomDivision.Clear();
+
+                foreach (SomerenModel.Room r in RoomDivisionList)
+                {
+                    
                 }
             }
         }
@@ -199,6 +228,12 @@ namespace SomerenUI
             listViewLecturers.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
         }
 
+        private void roomdivisionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showPanel("Roomdivision");
+            listViewLecturers.View = View.Details;
+        }
+
         private void lbl_Rooms_Click(object sender, EventArgs e)
         {
 
@@ -220,6 +255,21 @@ namespace SomerenUI
         }
 
         private void pnl_Lecturers_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void listViewLecturers_SelectedIndexChanged_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnl_roomdivision_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void listviewRoomDivision_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

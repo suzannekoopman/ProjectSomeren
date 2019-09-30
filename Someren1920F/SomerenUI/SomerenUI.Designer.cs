@@ -58,8 +58,12 @@
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.backgroundWorker2 = new System.ComponentModel.BackgroundWorker();
             this.pnl_Lecturers = new System.Windows.Forms.Panel();
-            this.lbl_Lecturers = new System.Windows.Forms.Label();
             this.listViewLecturers = new System.Windows.Forms.ListView();
+            this.lbl_Lecturers = new System.Windows.Forms.Label();
+            this.roomdivisionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pnl_RoomDivision = new System.Windows.Forms.Panel();
+            this.lbl_RoomDivision = new System.Windows.Forms.Label();
+            this.listviewRoomDivision = new System.Windows.Forms.ListView();
             ((System.ComponentModel.ISupportInitialize)(this.img_Dashboard)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.pnl_Dashboard.SuspendLayout();
@@ -68,6 +72,7 @@
             this.pnl_Rooms.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.pnl_Lecturers.SuspendLayout();
+            this.pnl_RoomDivision.SuspendLayout();
             this.SuspendLayout();
             // 
             // img_Dashboard
@@ -146,6 +151,8 @@
             // 
             // roomsToolStripMenuItem
             // 
+            this.roomsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.roomdivisionToolStripMenuItem});
             this.roomsToolStripMenuItem.Name = "roomsToolStripMenuItem";
             this.roomsToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.roomsToolStripMenuItem.Text = "Rooms";
@@ -175,7 +182,7 @@
             this.pnl_Students.Controls.Add(this.pictureBox1);
             this.pnl_Students.Controls.Add(this.lbl_Students);
             this.pnl_Students.Controls.Add(this.listViewStudents);
-            this.pnl_Students.Location = new System.Drawing.Point(12, 24);
+            this.pnl_Students.Location = new System.Drawing.Point(12, 27);
             this.pnl_Students.Name = "pnl_Students";
             this.pnl_Students.Size = new System.Drawing.Size(938, 466);
             this.pnl_Students.TabIndex = 4;
@@ -293,6 +300,16 @@
             this.pnl_Lecturers.Size = new System.Drawing.Size(938, 466);
             this.pnl_Lecturers.TabIndex = 7;
             // 
+            // listViewLecturers
+            // 
+            this.listViewLecturers.HideSelection = false;
+            this.listViewLecturers.Location = new System.Drawing.Point(61, 59);
+            this.listViewLecturers.Name = "listViewLecturers";
+            this.listViewLecturers.Size = new System.Drawing.Size(690, 363);
+            this.listViewLecturers.TabIndex = 1;
+            this.listViewLecturers.UseCompatibleStateImageBehavior = false;
+            this.listViewLecturers.SelectedIndexChanged += new System.EventHandler(this.listViewLecturers_SelectedIndexChanged_2);
+            // 
             // lbl_Lecturers
             // 
             this.lbl_Lecturers.AutoSize = true;
@@ -303,25 +320,54 @@
             this.lbl_Lecturers.TabIndex = 0;
             this.lbl_Lecturers.Text = "Lecturers";
             // 
-            // listViewLecturers
+            // roomdivisionToolStripMenuItem
             // 
-            this.listViewLecturers.HideSelection = false;
-            this.listViewLecturers.Location = new System.Drawing.Point(61, 59);
-            this.listViewLecturers.Name = "listViewLecturers";
-            this.listViewLecturers.Size = new System.Drawing.Size(690, 363);
-            this.listViewLecturers.TabIndex = 1;
-            this.listViewLecturers.UseCompatibleStateImageBehavior = false;
+            this.roomdivisionToolStripMenuItem.Name = "roomdivisionToolStripMenuItem";
+            this.roomdivisionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.roomdivisionToolStripMenuItem.Text = "Roomdivision";
+            this.roomdivisionToolStripMenuItem.Click += new System.EventHandler(this.roomdivisionToolStripMenuItem_Click);
+            // 
+            // pnl_RoomDivision
+            // 
+            this.pnl_RoomDivision.Controls.Add(this.listviewRoomDivision);
+            this.pnl_RoomDivision.Controls.Add(this.lbl_RoomDivision);
+            this.pnl_RoomDivision.Location = new System.Drawing.Point(0, 21);
+            this.pnl_RoomDivision.Name = "pnl_RoomDivision";
+            this.pnl_RoomDivision.Size = new System.Drawing.Size(936, 469);
+            this.pnl_RoomDivision.TabIndex = 8;
+            this.pnl_RoomDivision.Paint += new System.Windows.Forms.PaintEventHandler(this.pnl_roomdivision_Paint);
+            // 
+            // lbl_RoomDivision
+            // 
+            this.lbl_RoomDivision.AutoSize = true;
+            this.lbl_RoomDivision.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_RoomDivision.Location = new System.Drawing.Point(54, 27);
+            this.lbl_RoomDivision.Name = "lbl_RoomDivision";
+            this.lbl_RoomDivision.Size = new System.Drawing.Size(147, 25);
+            this.lbl_RoomDivision.TabIndex = 0;
+            this.lbl_RoomDivision.Text = "Room division";
+            // 
+            // listviewRoomDivision
+            // 
+            this.listviewRoomDivision.HideSelection = false;
+            this.listviewRoomDivision.Location = new System.Drawing.Point(59, 62);
+            this.listviewRoomDivision.Name = "listviewRoomDivision";
+            this.listviewRoomDivision.Size = new System.Drawing.Size(721, 366);
+            this.listviewRoomDivision.TabIndex = 1;
+            this.listviewRoomDivision.UseCompatibleStateImageBehavior = false;
+            this.listviewRoomDivision.SelectedIndexChanged += new System.EventHandler(this.listviewRoomDivision_SelectedIndexChanged);
             // 
             // SomerenUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(962, 505);
-            this.Controls.Add(this.pnl_Lecturers);
+            this.Controls.Add(this.pnl_RoomDivision);
             this.Controls.Add(this.menuStrip1);
+            this.Controls.Add(this.pnl_Students);
+            this.Controls.Add(this.pnl_Lecturers);
             this.Controls.Add(this.pnl_Dashboard);
             this.Controls.Add(this.pnl_Rooms);
-            this.Controls.Add(this.pnl_Students);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "SomerenUI";
@@ -341,6 +387,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.pnl_Lecturers.ResumeLayout(false);
             this.pnl_Lecturers.PerformLayout();
+            this.pnl_RoomDivision.ResumeLayout(false);
+            this.pnl_RoomDivision.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -380,6 +428,10 @@
         private System.Windows.Forms.Panel pnl_Lecturers;
         private System.Windows.Forms.ListView listViewLecturers;
         private System.Windows.Forms.Label lbl_Lecturers;
+        private System.Windows.Forms.ToolStripMenuItem roomdivisionToolStripMenuItem;
+        private System.Windows.Forms.Panel pnl_RoomDivision;
+        private System.Windows.Forms.ListView listviewRoomDivision;
+        private System.Windows.Forms.Label lbl_RoomDivision;
     }
 }
 

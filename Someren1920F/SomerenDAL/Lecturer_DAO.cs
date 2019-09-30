@@ -28,7 +28,7 @@ namespace SomerenDAL
             {
                 Teacher teacher = new Teacher()
                 {
-                    LecturerNumber = (int)dr["LectureId"],
+                    LecturerNumber = (int)dr["LecturerId"],
                     FirstName = (String)(dr["First_Name"].ToString()),
                     LastName = (String)(dr["Last_Name"].ToString()),
                     Address = (String)(dr["Address"].ToString()),
