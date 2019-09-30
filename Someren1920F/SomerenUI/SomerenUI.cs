@@ -44,6 +44,7 @@ namespace SomerenUI
                 pnl_Dashboard.Hide();
                 img_Dashboard.Hide();
                 pnl_Rooms.Hide();
+                pnl_Lecturers.Hide();
 
                 // show students
                 pnl_Students.Show();
@@ -70,13 +71,13 @@ namespace SomerenUI
                     listViewStudents.Items.Add(li);
                 }
             }
-
             else if (panelName == "Rooms")
             {
                 // hide all other panels
                 pnl_Dashboard.Hide();
                 img_Dashboard.Hide();
                 pnl_Students.Hide();
+                pnl_Lecturers.Hide();
 
                 // show rooms
                 pnl_Rooms.Show();
@@ -94,6 +95,36 @@ namespace SomerenUI
                     li.SubItems.Add(r.Capacity.ToString());
                     li.SubItems.Add(r.Type.ToString());
                     listViewRooms.Items.Add(li);
+                }
+            }
+            else if (panelName == "Lecturers")
+            {
+                // hide all other panels
+                pnl_Dashboard.Hide();
+                pnl_Students.Hide();
+                img_Dashboard.Hide();
+                pnl_Rooms.Hide();
+                // show lecturers
+                pnl_Lecturers.Show();
+
+
+
+                // fill the lecturers listview within the lecturers panel with a list of lecturers
+                SomerenLogic.Lecturer_Service lectService = new SomerenLogic.Lecturer_Service();
+                List<Teacher> lecturerList = lectService.GetLecturers();
+
+                // clear the listview before filling it again
+                listViewLecturers.Clear();
+                foreach (SomerenModel.Teacher s in lecturerList)
+                {
+
+                    ListViewItem li = new ListViewItem(s.LecturerNumber.ToString());
+                    li.SubItems.Add(s.FirstName);
+                    li.SubItems.Add(s.LastName);
+                    li.SubItems.Add(s.Address);
+                    li.SubItems.Add(s.City);
+                    li.SubItems.Add(s.RoomNumber.ToString());
+                    listViewLecturers.Items.Add(li);
                 }
             }
         }
@@ -153,12 +184,42 @@ namespace SomerenUI
 
         }
 
+        private void lecturersToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            showPanel("Lecturers");
+            listViewLecturers.View = View.Details;
+            listViewLecturers.Columns.Add("LecturerNumber", -2, HorizontalAlignment.Left);
+            listViewLecturers.Columns.Add("First Name", -2, HorizontalAlignment.Left);
+            listViewLecturers.Columns.Add("Last Name", -2, HorizontalAlignment.Left);
+            listViewLecturers.Columns.Add("Address", -2, HorizontalAlignment.Left);
+            listViewLecturers.Columns.Add("City", -2, HorizontalAlignment.Left);
+            listViewLecturers.Columns.Add("Room Number", -2, HorizontalAlignment.Left);
+
+            listViewLecturers.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
+            listViewLecturers.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
+        }
+
         private void lbl_Rooms_Click(object sender, EventArgs e)
         {
 
         }
 
         private void listViewRooms_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listViewLecturers_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listViewLecturers_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnl_Lecturers_Paint(object sender, PaintEventArgs e)
         {
 
         }
