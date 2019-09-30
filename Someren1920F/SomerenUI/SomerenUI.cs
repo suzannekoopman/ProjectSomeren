@@ -120,6 +120,18 @@ namespace SomerenUI
         private void studentsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             showPanel("Students");
+            listViewStudents.View = View.Details;
+
+            listViewStudents.Columns.Add("StudentId", -2, HorizontalAlignment.Left);
+            listViewStudents.Columns.Add("Class", -2, HorizontalAlignment.Left);
+            listViewStudents.Columns.Add("First Name", -2, HorizontalAlignment.Left);
+            listViewStudents.Columns.Add("Last Name", -2, HorizontalAlignment.Left);
+            listViewStudents.Columns.Add("Room Number", -2, HorizontalAlignment.Left);
+            listViewStudents.Columns.Add("Address", -2, HorizontalAlignment.Left);
+            listViewStudents.Columns.Add("City", -2, HorizontalAlignment.Left);
+
+            listViewStudents.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
+            listViewStudents.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
         }
 
         private void roomsToolStripMenuItem_Click(object sender, EventArgs e)
