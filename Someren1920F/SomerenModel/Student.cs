@@ -14,7 +14,7 @@ namespace SomerenModel
         public String Class { get; set; }
         public String Address { get; set; }
         public String City { get; set; }
-        public int PhoneNumber { get; set; }
+        public int RoomNumber { get; set; }
 
     }
 }

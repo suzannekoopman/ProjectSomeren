@@ -26,14 +26,14 @@ namespace SomerenLogic
                 List<Room> room = new List<Room>();
                 Room a = new Room();
                 a.Capacity = 5;
-                a.Number = 474791;
+                a.RoomNumber = 474791;
                 a.Type = true;
                 room.Add(a);
 
                 //     a.Type = ;
                 Room b = new Room();
                 b.Capacity = 5;
-                b.Number = 474791;
+                b.RoomNumber = 474791;
                 b.Type = true;
                 room.Add(b);
 

@@ -60,7 +60,13 @@ namespace SomerenUI
                 foreach (SomerenModel.Student s in studentList)
                 {
 
-                    ListViewItem li = new ListViewItem(s.FirstName);
+                    ListViewItem li = new ListViewItem(s.StudentNumber.ToString());
+                    li.SubItems.Add(s.Class);
+                    li.SubItems.Add(s.FirstName);
+                    li.SubItems.Add(s.LastName);
+                    li.SubItems.Add(s.RoomNumber.ToString());
+                    li.SubItems.Add(s.Address.ToString());
+                    li.SubItems.Add(s.City.ToString());
                     listViewStudents.Items.Add(li);
                 }
             }
@@ -84,7 +90,7 @@ namespace SomerenUI
 
                 foreach (SomerenModel.Room r in RoomList)
                 {
-                    ListViewItem li = new ListViewItem(r.Number.ToString());
+                    ListViewItem li = new ListViewItem(r.RoomNumber.ToString());
                     li.SubItems.Add(r.Capacity.ToString());
                     li.SubItems.Add(r.Type.ToString());
                     listViewRooms.Items.Add(li);

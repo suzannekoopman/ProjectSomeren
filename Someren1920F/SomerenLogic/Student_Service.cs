@@ -30,7 +30,7 @@ namespace SomerenLogic
                 a.LastName = "LastName";
                 a.Class = "A";
                 a.Address = "IJmuiden";
-                a.PhoneNumber = 06;
+                a.RoomNumber = 06;
                 student.Add(a);
 
                 return student;

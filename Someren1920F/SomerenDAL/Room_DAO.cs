@@ -14,7 +14,7 @@ namespace SomerenDAL
 
         public List<Room> Db_Get_All_Rooms()
         {
-            string query = "SELECT Number, Capacity, Type FROM Rooms";
+            string query = "SELECT RoomId, Capacity, Type FROM Rooms";
             SqlParameter[] sqlParameters = new SqlParameter[0];
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));
         }
@@ -27,7 +27,7 @@ namespace SomerenDAL
             {
                 Room room = new Room()
                 {
-                    Number = (int)dr["Number"],
+                    RoomNumber = (int)dr["RoomId"],
                     Capacity = (int)dr["Capacity"],
                     Type = (bool)(dr["Type"])
                 };
