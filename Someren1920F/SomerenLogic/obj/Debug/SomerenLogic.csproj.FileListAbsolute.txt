@@ -39,3 +39,15 @@ E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Pro
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.pdb

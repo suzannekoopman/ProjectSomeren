@@ -19,3 +19,9 @@ E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Pro
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.pdb

@@ -48,3 +48,56 @@ E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Pro
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.exe
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\gentl\Desktop\Project Periode 3\Somerengen\SomerenUI\obj\Debug\SomerenUI.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenUI.exe.config
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenUI.exe
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenUI.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenDAL.dll
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenLogic.dll
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenModel.dll
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenDAL.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenDAL.dll.config
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenLogic.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\bin\Debug\SomerenModel.pdb
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.exe
+E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.pdb

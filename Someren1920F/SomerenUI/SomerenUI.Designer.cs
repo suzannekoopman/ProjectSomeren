@@ -39,6 +39,7 @@
             this.lecturersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.activitiesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.roomsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.pnl_Dashboard = new System.Windows.Forms.Panel();
             this.lbl_Dashboard = new System.Windows.Forms.Label();
             this.pnl_Students = new System.Windows.Forms.Panel();
@@ -60,10 +61,9 @@
             this.pnl_Lecturers = new System.Windows.Forms.Panel();
             this.listViewLecturers = new System.Windows.Forms.ListView();
             this.lbl_Lecturers = new System.Windows.Forms.Label();
-            this.roomdivisionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pnl_RoomDivision = new System.Windows.Forms.Panel();
-            this.lbl_RoomDivision = new System.Windows.Forms.Label();
-            this.listviewRoomDivision = new System.Windows.Forms.ListView();
+            this.pnl_KamerIndeling = new System.Windows.Forms.Panel();
+            this.lbl_KamerIndeling = new System.Windows.Forms.Label();
+            this.roomDivision1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.img_Dashboard)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.pnl_Dashboard.SuspendLayout();
@@ -72,7 +72,7 @@
             this.pnl_Rooms.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.pnl_Lecturers.SuspendLayout();
-            this.pnl_RoomDivision.SuspendLayout();
+            this.pnl_KamerIndeling.SuspendLayout();
             this.SuspendLayout();
             // 
             // img_Dashboard
@@ -92,7 +92,8 @@
             this.studentsToolStripMenuItem,
             this.lecturersToolStripMenuItem,
             this.activitiesToolStripMenuItem,
-            this.roomsToolStripMenuItem});
+            this.roomsToolStripMenuItem,
+            this.toolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(962, 24);
@@ -151,12 +152,17 @@
             // 
             // roomsToolStripMenuItem
             // 
-            this.roomsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.roomdivisionToolStripMenuItem});
             this.roomsToolStripMenuItem.Name = "roomsToolStripMenuItem";
             this.roomsToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.roomsToolStripMenuItem.Text = "Rooms";
             this.roomsToolStripMenuItem.Click += new System.EventHandler(this.roomsToolStripMenuItem_Click);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(99, 20);
+            this.toolStripMenuItem1.Text = "Kamer Indeling";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // pnl_Dashboard
             // 
@@ -182,7 +188,7 @@
             this.pnl_Students.Controls.Add(this.pictureBox1);
             this.pnl_Students.Controls.Add(this.lbl_Students);
             this.pnl_Students.Controls.Add(this.listViewStudents);
-            this.pnl_Students.Location = new System.Drawing.Point(12, 27);
+            this.pnl_Students.Location = new System.Drawing.Point(12, 24);
             this.pnl_Students.Name = "pnl_Students";
             this.pnl_Students.Size = new System.Drawing.Size(938, 466);
             this.pnl_Students.TabIndex = 4;
@@ -238,7 +244,7 @@
             this.pnl_Rooms.Controls.Add(this.listViewRooms);
             this.pnl_Rooms.Controls.Add(this.lbl_Rooms);
             this.pnl_Rooms.Location = new System.Drawing.Point(14, 24);
-            this.pnl_Rooms.Margin = new System.Windows.Forms.Padding(2);
+            this.pnl_Rooms.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnl_Rooms.Name = "pnl_Rooms";
             this.pnl_Rooms.Size = new System.Drawing.Size(902, 428);
             this.pnl_Rooms.TabIndex = 6;
@@ -246,7 +252,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Location = new System.Drawing.Point(754, 0);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(178, 118);
             this.pictureBox2.TabIndex = 3;
@@ -260,7 +266,7 @@
             this.roomTYP});
             this.listViewRooms.HideSelection = false;
             this.listViewRooms.Location = new System.Drawing.Point(54, 58);
-            this.listViewRooms.Margin = new System.Windows.Forms.Padding(2);
+            this.listViewRooms.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.listViewRooms.Name = "listViewRooms";
             this.listViewRooms.Size = new System.Drawing.Size(602, 322);
             this.listViewRooms.TabIndex = 2;
@@ -308,7 +314,6 @@
             this.listViewLecturers.Size = new System.Drawing.Size(690, 363);
             this.listViewLecturers.TabIndex = 1;
             this.listViewLecturers.UseCompatibleStateImageBehavior = false;
-            this.listViewLecturers.SelectedIndexChanged += new System.EventHandler(this.listViewLecturers_SelectedIndexChanged_2);
             // 
             // lbl_Lecturers
             // 
@@ -320,54 +325,48 @@
             this.lbl_Lecturers.TabIndex = 0;
             this.lbl_Lecturers.Text = "Lecturers";
             // 
-            // roomdivisionToolStripMenuItem
+            // pnl_KamerIndeling
             // 
-            this.roomdivisionToolStripMenuItem.Name = "roomdivisionToolStripMenuItem";
-            this.roomdivisionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.roomdivisionToolStripMenuItem.Text = "Roomdivision";
-            this.roomdivisionToolStripMenuItem.Click += new System.EventHandler(this.roomdivisionToolStripMenuItem_Click);
+            this.pnl_KamerIndeling.Controls.Add(this.roomDivision1);
+            this.pnl_KamerIndeling.Controls.Add(this.lbl_KamerIndeling);
+            this.pnl_KamerIndeling.Location = new System.Drawing.Point(12, 24);
+            this.pnl_KamerIndeling.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pnl_KamerIndeling.Name = "pnl_KamerIndeling";
+            this.pnl_KamerIndeling.Size = new System.Drawing.Size(939, 456);
+            this.pnl_KamerIndeling.TabIndex = 8;
             // 
-            // pnl_RoomDivision
+            // lbl_KamerIndeling
             // 
-            this.pnl_RoomDivision.Controls.Add(this.listviewRoomDivision);
-            this.pnl_RoomDivision.Controls.Add(this.lbl_RoomDivision);
-            this.pnl_RoomDivision.Location = new System.Drawing.Point(0, 21);
-            this.pnl_RoomDivision.Name = "pnl_RoomDivision";
-            this.pnl_RoomDivision.Size = new System.Drawing.Size(936, 469);
-            this.pnl_RoomDivision.TabIndex = 8;
-            this.pnl_RoomDivision.Paint += new System.Windows.Forms.PaintEventHandler(this.pnl_roomdivision_Paint);
+            this.lbl_KamerIndeling.AutoSize = true;
+            this.lbl_KamerIndeling.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_KamerIndeling.Location = new System.Drawing.Point(31, 42);
+            this.lbl_KamerIndeling.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbl_KamerIndeling.Name = "lbl_KamerIndeling";
+            this.lbl_KamerIndeling.Size = new System.Drawing.Size(153, 26);
+            this.lbl_KamerIndeling.TabIndex = 0;
+            this.lbl_KamerIndeling.Text = "KamerIndeling";
             // 
-            // lbl_RoomDivision
+            // roomDivision1
             // 
-            this.lbl_RoomDivision.AutoSize = true;
-            this.lbl_RoomDivision.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_RoomDivision.Location = new System.Drawing.Point(54, 27);
-            this.lbl_RoomDivision.Name = "lbl_RoomDivision";
-            this.lbl_RoomDivision.Size = new System.Drawing.Size(147, 25);
-            this.lbl_RoomDivision.TabIndex = 0;
-            this.lbl_RoomDivision.Text = "Room division";
-            // 
-            // listviewRoomDivision
-            // 
-            this.listviewRoomDivision.HideSelection = false;
-            this.listviewRoomDivision.Location = new System.Drawing.Point(59, 62);
-            this.listviewRoomDivision.Name = "listviewRoomDivision";
-            this.listviewRoomDivision.Size = new System.Drawing.Size(721, 366);
-            this.listviewRoomDivision.TabIndex = 1;
-            this.listviewRoomDivision.UseCompatibleStateImageBehavior = false;
-            this.listviewRoomDivision.SelectedIndexChanged += new System.EventHandler(this.listviewRoomDivision_SelectedIndexChanged);
+            this.roomDivision1.AutoSize = true;
+            this.roomDivision1.Location = new System.Drawing.Point(33, 110);
+            this.roomDivision1.Name = "roomDivision1";
+            this.roomDivision1.Size = new System.Drawing.Size(35, 13);
+            this.roomDivision1.TabIndex = 1;
+            this.roomDivision1.Text = "label1";
+            this.roomDivision1.Click += new System.EventHandler(this.roomDivision1_Click);
             // 
             // SomerenUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(962, 505);
-            this.Controls.Add(this.pnl_RoomDivision);
             this.Controls.Add(this.menuStrip1);
-            this.Controls.Add(this.pnl_Students);
+            this.Controls.Add(this.pnl_KamerIndeling);
             this.Controls.Add(this.pnl_Lecturers);
             this.Controls.Add(this.pnl_Dashboard);
             this.Controls.Add(this.pnl_Rooms);
+            this.Controls.Add(this.pnl_Students);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "SomerenUI";
@@ -387,8 +386,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.pnl_Lecturers.ResumeLayout(false);
             this.pnl_Lecturers.PerformLayout();
-            this.pnl_RoomDivision.ResumeLayout(false);
-            this.pnl_RoomDivision.PerformLayout();
+            this.pnl_KamerIndeling.ResumeLayout(false);
+            this.pnl_KamerIndeling.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -428,10 +427,10 @@
         private System.Windows.Forms.Panel pnl_Lecturers;
         private System.Windows.Forms.ListView listViewLecturers;
         private System.Windows.Forms.Label lbl_Lecturers;
-        private System.Windows.Forms.ToolStripMenuItem roomdivisionToolStripMenuItem;
-        private System.Windows.Forms.Panel pnl_RoomDivision;
-        private System.Windows.Forms.ListView listviewRoomDivision;
-        private System.Windows.Forms.Label lbl_RoomDivision;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.Panel pnl_KamerIndeling;
+        private System.Windows.Forms.Label lbl_KamerIndeling;
+        private System.Windows.Forms.Label roomDivision1;
     }
 }
 
