@@ -51,3 +51,27 @@ C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\Some
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb

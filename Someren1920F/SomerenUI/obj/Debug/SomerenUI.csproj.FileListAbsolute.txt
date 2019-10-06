@@ -101,3 +101,39 @@ E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Som
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.exe
 E:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete

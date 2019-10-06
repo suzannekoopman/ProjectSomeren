@@ -25,3 +25,14 @@ C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\Some
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb

@@ -42,3 +42,23 @@ C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenDAL\obj\Debug\Somere
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\gentl\Desktop\Project Periode 3\Somerensuus\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\School\Desktop\ProjectSomeren-master\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenDAL\obj\Debug\SomerenDAL.pdb
