@@ -25,16 +25,16 @@ namespace SomerenLogic
                 // something went wrong connecting to the database, so we will add a fake student to the list to make sure the rest of the application continues working!
                 List<Drinks> drinks = new List<Drinks>();
                 Drinks d = new Drinks();
-                d.Name = "Oepsie";
-                d.Price = 1.69f;
-                d.Stock = 0;
+                d.Naam = "Oepsie";
+                d.Prijs = 1.69f;
+                d.Voorraad = 40;
                 d.BTW = 0;
                 drinks.Add(d);
 
                 return drinks;
                 //throw new Exception("Someren couldn't connect to the database");
             }
-
+            
         }
     }
 }

@@ -47,6 +47,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ForgotPasswordScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPasswordScreen.Designer.cs">
+      <DependentUpon>ForgotPasswordScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreen.Designer.cs">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pdb1920f6DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pdb1920f6DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationScreen.Designer.cs">
+      <DependentUpon>RegistrationScreen.cs</DependentUpon>
+    </Compile>
     <Compile Include="SomerenUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +78,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ForgotPasswordScreen.resx">
+      <DependentUpon>ForgotPasswordScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreen.resx">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationScreen.resx">
+      <DependentUpon>RegistrationScreen.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SomerenUI.resx">
       <DependentUpon>SomerenUI.cs</DependentUpon>
     </EmbeddedResource>
@@ -68,6 +100,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="pdb1920f6DataSet1.xsc">
+      <DependentUpon>pdb1920f6DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pdb1920f6DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pdb1920f6DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pdb1920f6DataSet1.xss">
+      <DependentUpon>pdb1920f6DataSet1.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

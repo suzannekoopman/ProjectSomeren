@@ -75,3 +75,85 @@ C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Deb
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\admin\Documents\project eind\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\admin\Documents\project eind\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\admin\Documents\project eind\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\project eind\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\admin\Documents\project eind\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\admin\Documents\project eind\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenLogic.dll.config
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenLogic\obj\Debug\SomerenLogic.pdb

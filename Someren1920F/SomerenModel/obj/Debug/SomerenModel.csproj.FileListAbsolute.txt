@@ -36,3 +36,34 @@ C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\bin\Deb
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\obj\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\admin\Documents\project eind\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\admin\Documents\project eind\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\admin\Documents\project eind\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\admin\Documents\project eind\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\project eind\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\admin\Documents\project eind\SomerenModel\obj\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenModel\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenModel\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenModel\obj\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenModel\obj\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenModel\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenModel\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenModel\obj\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenModel\obj\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenModel\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenModel\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenModel\obj\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenModel\obj\Debug\SomerenModel.pdb

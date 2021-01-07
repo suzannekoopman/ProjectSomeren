@@ -20,8 +20,18 @@ namespace SomerenLogic
         {
             try
             {
-                List<KamerIndeling> kamerindeling = kamerIndeling_db.Db_Get_All_KamerIndelings();
-                return kamerindeling;
+                List<KamerIndeling> kamerindeling = kamerIndeling_db.Db_Get_All_KamerIndelings_Students();
+                List<KamerIndeling> kamerindeling2 = kamerIndeling_db.Db_Get_All_KamerIndelings_Lecturers();
+                List<KamerIndeling> kamerindeling3 = new List<KamerIndeling>();
+                foreach (KamerIndeling k in kamerindeling)
+                {
+                    kamerindeling3.Add(k);
+                }
+                foreach (KamerIndeling k in kamerindeling2)
+                {
+                    kamerindeling3.Add(k);
+                }
+                return kamerindeling3;
             }
             catch (Exception)
             {

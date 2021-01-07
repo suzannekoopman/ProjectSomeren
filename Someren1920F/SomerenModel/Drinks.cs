@@ -8,9 +8,9 @@ namespace SomerenModel
 {
     public class Drinks
     {
-        public String Name { get; set; }
-        public int Stock { get; set; }
-        public float Price { get; set; }
+        public String Naam { get; set; }
+        public int Voorraad { get; set; }
+        public float Prijs { get; set; }
         public int BTW { get; set; }
     }
 }

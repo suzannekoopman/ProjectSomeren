@@ -137,3 +137,135 @@ C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.pdb
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\bin\Debug\SomerenModel.pdb
 C:\Users\gentl\Desktop\Project Periode 3\Chung\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\ProjectSomeren\Someren1920F\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\admin\Documents\project eind\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\admin\Documents\project eind\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\admin\Documents\project eind\Nieuwe map\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 4\Projectinhoud week 4\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.LoginScreen.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\SomerenUI\obj\Debug\SomerenUI.RegistrationScreen.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenUI.exe.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenUI.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenDAL.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenLogic.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenModel.dll
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenDAL.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenDAL.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenLogic.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenLogic.dll.config
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\bin\Debug\SomerenModel.pdb
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.ForgotPasswordScreen.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.LoginScreen.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.RegistrationScreen.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.exe
+D:\Nieuwe Laptop Suus\Inholland Informatica\Jaar 1\Periode 3\Project Someren\Week 5\Projectinhoud\Nieuwe map (5)\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenDAL.dll.config
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenLogic.dll.config
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.csprojAssemblyReference.cache
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.ForgotPasswordScreen.resources
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.LoginScreen.resources
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.RegistrationScreen.resources
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\suusk\OneDrive\Documenten\Suus\Jaar 1\Periode 3\Project Someren\Week 5\INLEVEREN\SomerenUI\obj\Debug\SomerenUI.pdb

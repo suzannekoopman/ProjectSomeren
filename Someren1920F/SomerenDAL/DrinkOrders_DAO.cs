@@ -1,5 +1,4 @@
 ﻿using System;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -36,6 +35,18 @@ namespace SomerenDAL
                 drinkorders.Add(order);
             }
             return drinkorders;
+        }
+
+        public void OrderDrink(String drinkName, int studentId, int amount)
+        {
+            String orderQuery = $"INSERT INTO DrinkOrders VALUES ('{drinkName}', {studentId}, {amount}, '{DateTime.Today}')";
+            SqlParameter[] sqlParameters = new SqlParameter[0];
+            OpenConnection();
+            ExecuteEditQuery(orderQuery, sqlParameters);
+
+            String updateDrinks = $"UPDATE Drinks SET Stock = Stock - {amount} WHERE Name = '{drinkName}'";
+            OpenConnection();
+            ExecuteEditQuery(updateDrinks, sqlParameters);
         }
     }
 }

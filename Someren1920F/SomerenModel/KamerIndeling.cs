@@ -11,5 +11,6 @@ namespace SomerenModel
         public int RoomNumber { get; set; }
         public String FirstName { get; set; }
         public String LastName { get; set; }
+        public int Capacity { get; set; }
     }
 }
